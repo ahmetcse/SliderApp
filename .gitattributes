@@ -1,0 +1,6 @@
+# Dart dosyaları
+*.dart linguist-language=Dart
+
+# Flutter ile ilgili dosyalar
+*.yaml linguist-language=YAML
+*.json linguist-language=JSON
